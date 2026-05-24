@@ -1,0 +1,2072 @@
+<?xml version="1.0" encoding="UTF-8"?><w:document xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink" xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:oel="http://schemas.microsoft.com/office/2019/extlst" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16du="http://schemas.microsoft.com/office/word/2023/wordml/word16du" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16sdtfl="http://schemas.microsoft.com/office/word/2024/wordml/sdtformatlock" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" mc:Ignorable="w14 w15 w16se w16cid w16 w16cex w16sdtdh w16sdtfl w16du wp14">
+  <w:body>
+    <w:p w14:paraId="322839D2" w14:textId="62C13C5D" w:rsidR="0052104E" w:rsidRDefault="0052104E" w:rsidP="0052104E">
+      <w:pPr>
+        <w:pStyle w:val="a3"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>1999-2022年全美男女肺癌发病率趋势</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="39A1113E" w14:textId="78F38AFE" w:rsidR="00C91557" w:rsidRDefault="00C91557" w:rsidP="00C91557">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>简介：本次项目是研究全美按性别划分的年龄标化率的肺癌发病率趋势（1999-2022）。</w:t>
+      </w:r>
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="4ADD0DE0" w14:textId="77777777" w:rsidR="00DF0A21" w:rsidRPr="00DF0A21" w:rsidRDefault="00C91557" w:rsidP="00DF0A21">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>数据来源：</w:t>
+      </w:r>
+      
+      <w:r>
+        <w:t>下载数据表 |美国癌症统计 |CDC](</w:t>
+      </w:r>
+      
+      
+      
+      <w:hyperlink r:id="rId8" w:tgtFrame="_blank" w:history="1">
+        <w:r>
+          <w:rPr>
+            <w:rStyle w:val="af"/>
+          </w:rPr>
+          <w:t>https://www.cdc.gov/united-states-cancer-statistics/dataviz/data-tables.html</w:t>
+        </w:r>
+      </w:hyperlink>
+    </w:p>
+    <w:p w14:paraId="66000430" w14:textId="64E0D772" w:rsidR="00DF0A21" w:rsidRDefault="00C91557">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t># 1. 数据处理</w:t>
+      </w:r>
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="4D478E3C" w14:textId="667FFD13" w:rsidR="00DF0A21" w:rsidRDefault="00C77727">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>## 1.1 数据筛选：</w:t>
+      </w:r>
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="00EC915F" w14:textId="201653C8" w:rsidR="00DF0A21" w:rsidRDefault="00DF0A21">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>数据类型转化</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="46D03A17" w14:textId="1DEEDB8F" w:rsidR="00DF0A21" w:rsidRDefault="00DF0A21">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:noProof/>
+        </w:rPr>
+        <w:drawing>
+          <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="68BB7E47" wp14:editId="2C00406E">
+            <wp:extent cx="5274310" cy="1256665"/>
+            <wp:effectExtent l="0" t="0" r="2540" b="635"/>
+            <wp:docPr id="1034061086" name="图片 1"/>
+            <wp:cNvGraphicFramePr>
+              <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noChangeAspect="1"/>
+            </wp:cNvGraphicFramePr>
+            <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+              <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                  <pic:nvPicPr>
+                    <pic:cNvPr id="1034061086" name=""/>
+                    <pic:cNvPicPr/>
+                  </pic:nvPicPr>
+                  <pic:blipFill>
+                    <a:blip r:embed="rId9"/>
+                    <a:stretch>
+                      <a:fillRect/>
+                    </a:stretch>
+                  </pic:blipFill>
+                  <pic:spPr>
+                    <a:xfrm>
+                      <a:off x="0" y="0"/>
+                      <a:ext cx="5274310" cy="1256665"/>
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                      <a:avLst/>
+                    </a:prstGeom>
+                  </pic:spPr>
+                </pic:pic>
+              </a:graphicData>
+            </a:graphic>
+          </wp:inline>
+        </w:drawing>
+      <w:t xml:space="preserve"> </w:t></w:r>
+      
+    </w:p>
+    <w:p w14:paraId="601FA45A" w14:textId="059C31ED" w:rsidR="00DF0A21" w:rsidRDefault="00DF0A21" w:rsidP="00DF0A21">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>- YEAR：筛选出1999-2023年的数据</w:t>
+      </w:r>
+      
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="10285B80" w14:textId="2C556C05" w:rsidR="00DF0A21" w:rsidRDefault="00DF0A21" w:rsidP="00DF0A21">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>- RACE：筛选出&#x201C;All Races&#x201D;，即全美国的数据</w:t>
+      </w:r>
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="13A93A5D" w14:textId="6CE965E7" w:rsidR="00DF0A21" w:rsidRDefault="00DF0A21" w:rsidP="00DF0A21">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>- SEX：筛选出&#x201C;Male&#x201D;,&#x201C;Female&#x201D;</w:t>
+      </w:r>
+      
+      
+      
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="0D6D1F9A" w14:textId="640B3FB3" w:rsidR="00DF0A21" w:rsidRDefault="00DF0A21" w:rsidP="00DF0A21">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>- SITE：筛选出"Lung and Bronchus"</w:t>
+      </w:r>
+      
+      
+    </w:p>
+    <w:p w14:paraId="30AB917C" w14:textId="1E97AEBD" w:rsidR="00C91557" w:rsidRDefault="00DF0A21">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>- EVENT_TYPE：筛选出&#x201C;Incidence&#x201D;</w:t>
+      </w:r>
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="5208A415" w14:textId="77777777" w:rsidR="00DF0A21" w:rsidRDefault="00DF0A21">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:noProof/>
+        </w:rPr>
+        <w:drawing>
+          <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="5C14D48F" wp14:editId="7E8DCAD9">
+            <wp:extent cx="5274310" cy="552450"/>
+            <wp:effectExtent l="0" t="0" r="2540" b="0"/>
+            <wp:docPr id="1819166242" name="图片 1"/>
+            <wp:cNvGraphicFramePr>
+              <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noChangeAspect="1"/>
+            </wp:cNvGraphicFramePr>
+            <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+              <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                  <pic:nvPicPr>
+                    <pic:cNvPr id="1819166242" name=""/>
+                    <pic:cNvPicPr/>
+                  </pic:nvPicPr>
+                  <pic:blipFill>
+                    <a:blip r:embed="rId10"/>
+                    <a:stretch>
+                      <a:fillRect/>
+                    </a:stretch>
+                  </pic:blipFill>
+                  <pic:spPr>
+                    <a:xfrm>
+                      <a:off x="0" y="0"/>
+                      <a:ext cx="5274310" cy="552450"/>
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                      <a:avLst/>
+                    </a:prstGeom>
+                  </pic:spPr>
+                </pic:pic>
+              </a:graphicData>
+            </a:graphic>
+          </wp:inline>
+        </w:drawing>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="78121854" w14:textId="4C06542C" w:rsidR="00DF0A21" w:rsidRDefault="00DF0A21">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:t>预期样本数应为10*2 obs.，但实际样本数为18 obs.，故需分析</w:t>
+      <w:lastRenderedPageBreak/><w:t>原因。</w:t></w:r>
+      
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="5BAE2074" w14:textId="645EB9A9" w:rsidR="00DF0A21" w:rsidRDefault="00DF0A21">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:noProof/>
+        </w:rPr>
+        <w:drawing>
+          <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="210569BB" wp14:editId="2C361932">
+            <wp:extent cx="5274310" cy="826770"/>
+            <wp:effectExtent l="0" t="0" r="2540" b="0"/>
+            <wp:docPr id="1552971391" name="图片 1"/>
+            <wp:cNvGraphicFramePr>
+              <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noChangeAspect="1"/>
+            </wp:cNvGraphicFramePr>
+            <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+              <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                  <pic:nvPicPr>
+                    <pic:cNvPr id="1552971391" name=""/>
+                    <pic:cNvPicPr/>
+                  </pic:nvPicPr>
+                  <pic:blipFill>
+                    <a:blip r:embed="rId11"/>
+                    <a:stretch>
+                      <a:fillRect/>
+                    </a:stretch>
+                  </pic:blipFill>
+                  <pic:spPr>
+                    <a:xfrm>
+                      <a:off x="0" y="0"/>
+                      <a:ext cx="5274310" cy="826770"/>
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                      <a:avLst/>
+                    </a:prstGeom>
+                  </pic:spPr>
+                </pic:pic>
+              </a:graphicData>
+            </a:graphic>
+          </wp:inline>
+        </w:drawing>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="44D14CA3" w14:textId="1C08AF2F" w:rsidR="00DF0A21" w:rsidRDefault="00DF0A21">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:t>发现clean_sex1$YEAR中缺少2023年数据，因此返回df中确认是否确实没有记录该数据</w:t>
+      </w:r>
+      
+      
+      
+      
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="5C0AC574" w14:textId="6402A17A" w:rsidR="00DF0A21" w:rsidRDefault="00DF0A21">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:noProof/>
+        </w:rPr>
+        <w:drawing>
+          <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="53F9BAF5" wp14:editId="6F6A401F">
+            <wp:extent cx="5274310" cy="422910"/>
+            <wp:effectExtent l="0" t="0" r="2540" b="0"/>
+            <wp:docPr id="1453402073" name="图片 1"/>
+            <wp:cNvGraphicFramePr>
+              <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noChangeAspect="1"/>
+            </wp:cNvGraphicFramePr>
+            <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+              <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                  <pic:nvPicPr>
+                    <pic:cNvPr id="1453402073" name=""/>
+                    <pic:cNvPicPr/>
+                  </pic:nvPicPr>
+                  <pic:blipFill>
+                    <a:blip r:embed="rId12"/>
+                    <a:stretch>
+                      <a:fillRect/>
+                    </a:stretch>
+                  </pic:blipFill>
+                  <pic:spPr>
+                    <a:xfrm>
+                      <a:off x="0" y="0"/>
+                      <a:ext cx="5274310" cy="422910"/>
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                      <a:avLst/>
+                    </a:prstGeom>
+                  </pic:spPr>
+                </pic:pic>
+              </a:graphicData>
+            </a:graphic>
+          </wp:inline>
+        </w:drawing>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="1CE64A03" w14:textId="3A1A0D34" w:rsidR="00DF0A21" w:rsidRDefault="00DF0A21">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:t>结果发现2023年的发病率未被记录，仅包含死亡率的数据。</w:t>
+      </w:r>
+      
+      
+    </w:p>
+    <w:p w14:paraId="6438B38A" w14:textId="77777777" w:rsidR="00B46367" w:rsidRDefault="00B46367" w:rsidP="00B46367">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>本研究原计划分析至2023年肺癌流行特征，但CDC数据库2023年发病率数据完全缺失。因癌症发病率需多轮核对去重，官方发布通常比死亡率滞后2–3年，属流行病学统计常态。故本研究最终严谨划定研究时段为2014—2022年。</w:t>
+      </w:r>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="7B192190" w14:textId="39FE1A03" w:rsidR="00C77727" w:rsidRDefault="00C77727" w:rsidP="00B46367">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>## 1.2 数据清洗</w:t>
+      </w:r>
+      
+    </w:p>
+    <w:p w14:paraId="6D91C051" w14:textId="403819F1" w:rsidR="00C77727" w:rsidRDefault="00C77727">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:noProof/>
+        </w:rPr>
+        <w:drawing>
+          <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="0295E76E" wp14:editId="055441F2">
+            <wp:extent cx="2288642" cy="1019353"/>
+            <wp:effectExtent l="0" t="0" r="0" b="9525"/>
+            <wp:docPr id="869851252" name="图片 1"/>
+            <wp:cNvGraphicFramePr>
+              <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noChangeAspect="1"/>
+            </wp:cNvGraphicFramePr>
+            <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+              <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                  <pic:nvPicPr>
+                    <pic:cNvPr id="869851252" name=""/>
+                    <pic:cNvPicPr/>
+                  </pic:nvPicPr>
+                  <pic:blipFill>
+                    <a:blip r:embed="rId13"/>
+                    <a:stretch>
+                      <a:fillRect/>
+                    </a:stretch>
+                  </pic:blipFill>
+                  <pic:spPr>
+                    <a:xfrm>
+                      <a:off x="0" y="0"/>
+                      <a:ext cx="2303494" cy="1025968"/>
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                      <a:avLst/>
+                    </a:prstGeom>
+                  </pic:spPr>
+                </pic:pic>
+              </a:graphicData>
+            </a:graphic>
+          </wp:inline>
+        </w:drawing>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="3C1C0081" w14:textId="2A9F63DD" w:rsidR="00C77727" w:rsidRDefault="00C77727">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>无缺失值。</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="5FC252C2" w14:textId="6AB4CB39" w:rsidR="00C77727" w:rsidRDefault="00C77727">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:t>根据年份按照从小到大的排列方式：</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="797EF4DD" w14:textId="2FDBC6C4" w:rsidR="00C77727" w:rsidRDefault="00C77727">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:noProof/>
+        </w:rPr>
+        <w:drawing>
+          <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="1D65258C" wp14:editId="4C5E2541">
+            <wp:extent cx="5220429" cy="1028844"/>
+            <wp:effectExtent l="0" t="0" r="0" b="0"/>
+            <wp:docPr id="1974513054" name="图片 1"/>
+            <wp:cNvGraphicFramePr>
+              <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noChangeAspect="1"/>
+            </wp:cNvGraphicFramePr>
+            <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+              <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                  <pic:nvPicPr>
+                    <pic:cNvPr id="1974513054" name=""/>
+                    <pic:cNvPicPr/>
+                  </pic:nvPicPr>
+                  <pic:blipFill>
+                    <a:blip r:embed="rId14"/>
+                    <a:stretch>
+                      <a:fillRect/>
+                    </a:stretch>
+                  </pic:blipFill>
+                  <pic:spPr>
+                    <a:xfrm>
+                      <a:off x="0" y="0"/>
+                      <a:ext cx="5220429" cy="1028844"/>
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                      <a:avLst/>
+                    </a:prstGeom>
+                  </pic:spPr>
+                </pic:pic>
+              </a:graphicData>
+            </a:graphic>
+          </wp:inline>
+        </w:drawing>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="4C0484FD" w14:textId="2BFA87E6" w:rsidR="00C77727" w:rsidRDefault="00C77727">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t># 2 画图</w:t>
+      </w:r>
+      
+    </w:p>
+    <w:p w14:paraId="4CEDD980" w14:textId="5BBDD4B9" w:rsidR="00D64072" w:rsidRDefault="00D64072">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:lastRenderedPageBreak/>
+        <w:t>## 2.1 画出男女发病率的图</w:t>
+      </w:r>
+      
+    </w:p>
+    <w:p w14:paraId="6AA2FE70" w14:textId="0A08012E" w:rsidR="00D64072" w:rsidRDefault="00C77727">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>确认数据类型</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="573249A8" w14:textId="70220A2A" w:rsidR="00C77727" w:rsidRDefault="00C77727">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:noProof/>
+        </w:rPr>
+        <w:drawing>
+          <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="7D1182DC" wp14:editId="3BCB1693">
+            <wp:extent cx="5274310" cy="802005"/>
+            <wp:effectExtent l="0" t="0" r="2540" b="0"/>
+            <wp:docPr id="1975305847" name="图片 1"/>
+            <wp:cNvGraphicFramePr>
+              <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noChangeAspect="1"/>
+            </wp:cNvGraphicFramePr>
+            <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+              <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                  <pic:nvPicPr>
+                    <pic:cNvPr id="1975305847" name=""/>
+                    <pic:cNvPicPr/>
+                  </pic:nvPicPr>
+                  <pic:blipFill>
+                    <a:blip r:embed="rId15"/>
+                    <a:stretch>
+                      <a:fillRect/>
+                    </a:stretch>
+                  </pic:blipFill>
+                  <pic:spPr>
+                    <a:xfrm>
+                      <a:off x="0" y="0"/>
+                      <a:ext cx="5274310" cy="802005"/>
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                      <a:avLst/>
+                    </a:prstGeom>
+                  </pic:spPr>
+                </pic:pic>
+              </a:graphicData>
+            </a:graphic>
+          </wp:inline>
+        </w:drawing>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="0071FE0F" w14:textId="136D4DC4" w:rsidR="00D64072" w:rsidRDefault="00D64072">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>画出男女的发病率趋势图以及男女发病率差距图</w:t>
+      </w:r>
+      
+    </w:p>
+    <w:p w14:paraId="2F787AD3" w14:textId="7FD1456D" w:rsidR="00C77727" w:rsidRDefault="00D64072">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:noProof/>
+        </w:rPr>
+        <w:drawing>
+          <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="1A6157F7" wp14:editId="44E5C4AF">
+            <wp:extent cx="5274310" cy="1614805"/>
+            <wp:effectExtent l="0" t="0" r="2540" b="4445"/>
+            <wp:docPr id="1735938529" name="图片 1"/>
+            <wp:cNvGraphicFramePr>
+              <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noChangeAspect="1"/>
+            </wp:cNvGraphicFramePr>
+            <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+              <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                  <pic:nvPicPr>
+                    <pic:cNvPr id="1735938529" name=""/>
+                    <pic:cNvPicPr/>
+                  </pic:nvPicPr>
+                  <pic:blipFill>
+                    <a:blip r:embed="rId16"/>
+                    <a:stretch>
+                      <a:fillRect/>
+                    </a:stretch>
+                  </pic:blipFill>
+                  <pic:spPr>
+                    <a:xfrm>
+                      <a:off x="0" y="0"/>
+                      <a:ext cx="5274310" cy="1614805"/>
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                      <a:avLst/>
+                    </a:prstGeom>
+                  </pic:spPr>
+                </pic:pic>
+              </a:graphicData>
+            </a:graphic>
+          </wp:inline>
+        </w:drawing>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="3B1BE09A" w14:textId="620221D4" w:rsidR="00D64072" w:rsidRDefault="000B1469">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:noProof/>
+        </w:rPr>
+        <w:drawing>
+          <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="06D8A6A6" wp14:editId="09B8B548">
+            <wp:extent cx="5274310" cy="655320"/>
+            <wp:effectExtent l="0" t="0" r="2540" b="0"/>
+            <wp:docPr id="348739993" name="图片 1"/>
+            <wp:cNvGraphicFramePr>
+              <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noChangeAspect="1"/>
+            </wp:cNvGraphicFramePr>
+            <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+              <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                  <pic:nvPicPr>
+                    <pic:cNvPr id="348739993" name=""/>
+                    <pic:cNvPicPr/>
+                  </pic:nvPicPr>
+                  <pic:blipFill>
+                    <a:blip r:embed="rId17"/>
+                    <a:stretch>
+                      <a:fillRect/>
+                    </a:stretch>
+                  </pic:blipFill>
+                  <pic:spPr>
+                    <a:xfrm>
+                      <a:off x="0" y="0"/>
+                      <a:ext cx="5274310" cy="655320"/>
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                      <a:avLst/>
+                    </a:prstGeom>
+                  </pic:spPr>
+                </pic:pic>
+              </a:graphicData>
+            </a:graphic>
+          </wp:inline>
+        </w:drawing>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="1EEC2D07" w14:textId="044A95C9" w:rsidR="000B1469" w:rsidRDefault="000B1469">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>为在joinpoint回归中分析，故处理一下数据框。在数据框中加入标准误，并且按SEX分组排序。</w:t>
+      </w:r>
+      
+      
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="7D31F03F" w14:textId="7AA92D17" w:rsidR="000B1469" w:rsidRDefault="000B1469">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:noProof/>
+        </w:rPr>
+        <w:drawing>
+          <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="4733B95A" wp14:editId="42EFC9FF">
+            <wp:extent cx="5274310" cy="783590"/>
+            <wp:effectExtent l="0" t="0" r="2540" b="0"/>
+            <wp:docPr id="130521373" name="图片 1"/>
+            <wp:cNvGraphicFramePr>
+              <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noChangeAspect="1"/>
+            </wp:cNvGraphicFramePr>
+            <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+              <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                  <pic:nvPicPr>
+                    <pic:cNvPr id="130521373" name=""/>
+                    <pic:cNvPicPr/>
+                  </pic:nvPicPr>
+                  <pic:blipFill>
+                    <a:blip r:embed="rId18"/>
+                    <a:stretch>
+                      <a:fillRect/>
+                    </a:stretch>
+                  </pic:blipFill>
+                  <pic:spPr>
+                    <a:xfrm>
+                      <a:off x="0" y="0"/>
+                      <a:ext cx="5274310" cy="783590"/>
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                      <a:avLst/>
+                    </a:prstGeom>
+                  </pic:spPr>
+                </pic:pic>
+              </a:graphicData>
+            </a:graphic>
+          </wp:inline>
+        </w:drawing>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="208D1FCB" w14:textId="23C4A5B7" w:rsidR="006A7CF9" w:rsidRDefault="005541C3">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t># 3 统计分析</w:t>
+      </w:r>
+      
+      
+    </w:p>
+    <w:p w14:paraId="31ECBD03" w14:textId="77777777" w:rsidR="004471DF" w:rsidRDefault="004471DF" w:rsidP="004471DF">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>年龄标化发病率（ASIR）由美国CDC采用直接标化法计算，按5岁年龄组（0-4岁至75岁及以上）分层，单位为/10万人。</w:t>
+      </w:r>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="621BE19F" w14:textId="77777777" w:rsidR="004471DF" w:rsidRDefault="004471DF" w:rsidP="004471DF">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>数据按性别（女性、男性）进行分层。</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="79C8B01C" w14:textId="77777777" w:rsidR="00FC34DF" w:rsidRDefault="00FC34DF" w:rsidP="00FC34DF">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+      </w:pPr>
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>Joinpoint回归使用统计joinpoint回归程序6.0.1版本进行评估1999-2022年间的肺癌发病率。</w:t>
+      </w:r>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="03056F7E" w14:textId="265399B2" w:rsidR="005541C3" w:rsidRDefault="005541C3">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:lastRenderedPageBreak/>
+        <w:t>## 3.1 宏观</w:t>
+      </w:r>
+      
+      
+    </w:p>
+    <w:p w14:paraId="2ED47931" w14:textId="138F857D" w:rsidR="00450830" w:rsidRDefault="008E2CFC">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:noProof/>
+        </w:rPr>
+        <w:drawing>
+          <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="0400C536" wp14:editId="429EDC84">
+            <wp:extent cx="5274310" cy="2651125"/>
+            <wp:effectExtent l="0" t="0" r="2540" b="0"/>
+            <wp:docPr id="1555910364" name="图片 1"/>
+            <wp:cNvGraphicFramePr>
+              <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noChangeAspect="1"/>
+            </wp:cNvGraphicFramePr>
+            <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+              <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                  <pic:nvPicPr>
+                    <pic:cNvPr id="1555910364" name=""/>
+                    <pic:cNvPicPr/>
+                  </pic:nvPicPr>
+                  <pic:blipFill>
+                    <a:blip r:embed="rId19"/>
+                    <a:stretch>
+                      <a:fillRect/>
+                    </a:stretch>
+                  </pic:blipFill>
+                  <pic:spPr>
+                    <a:xfrm>
+                      <a:off x="0" y="0"/>
+                      <a:ext cx="5274310" cy="2651125"/>
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                      <a:avLst/>
+                    </a:prstGeom>
+                  </pic:spPr>
+                </pic:pic>
+              </a:graphicData>
+            </a:graphic>
+          </wp:inline>
+        </w:drawing>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="68DFCB6D" w14:textId="6CE526ED" w:rsidR="00D77108" w:rsidRDefault="00C52CC0">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>在上图中，可以初步看出以下结论。从时间趋势上来说，男性发病率趋势总体呈现下降趋势，女性发病率趋势总体呈现先上升后下降的趋势，并且在2020年的肺癌发病率凹陷（Q1）。从性别差异上来说，在最开始的男性发病率远远高于女性，但随着时间的推移，男性发病率与女性发病率的差距持续缩小。(Q2)</w:t>
+      </w:r>
+      
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="70D4E540" w14:textId="0B555AE0" w:rsidR="005541C3" w:rsidRDefault="005541C3">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>## 3.2 微观</w:t>
+      </w:r>
+      
+      
+    </w:p>
+    <w:p w14:paraId="3DD698A7" w14:textId="704D15E4" w:rsidR="005541C3" w:rsidRDefault="00956444">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:noProof/>
+        </w:rPr>
+        <w:lastRenderedPageBreak/>
+        <w:drawing>
+          <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="584DBEB1" wp14:editId="242E0A6F">
+            <wp:extent cx="5274310" cy="3581400"/>
+            <wp:effectExtent l="0" t="0" r="2540" b="0"/>
+            <wp:docPr id="2002187164" name="图片 1"/>
+            <wp:cNvGraphicFramePr>
+              <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noChangeAspect="1"/>
+            </wp:cNvGraphicFramePr>
+            <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+              <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                  <pic:nvPicPr>
+                    <pic:cNvPr id="2002187164" name=""/>
+                    <pic:cNvPicPr/>
+                  </pic:nvPicPr>
+                  <pic:blipFill>
+                    <a:blip r:embed="rId20"/>
+                    <a:stretch>
+                      <a:fillRect/>
+                    </a:stretch>
+                  </pic:blipFill>
+                  <pic:spPr>
+                    <a:xfrm>
+                      <a:off x="0" y="0"/>
+                      <a:ext cx="5274310" cy="3581400"/>
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                      <a:avLst/>
+                    </a:prstGeom>
+                  </pic:spPr>
+                </pic:pic>
+              </a:graphicData>
+            </a:graphic>
+          </wp:inline>
+        </w:drawing>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="1FDE41F5" w14:textId="435AD270" w:rsidR="001C2771" w:rsidRDefault="001C2771">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>根据从Joinpoint软件中跑出来的数据，对其中的重要参数进行解读。</w:t>
+      </w:r>
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="0B96273C" w14:textId="77777777" w:rsidR="007266D8" w:rsidRDefault="005541C3" w:rsidP="00C50756">
+      <w:pPr>
+        <w:pStyle w:val="a9"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+      </w:pPr>
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>Joinpoint：</w:t>
+      </w:r>
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="511023E5" w14:textId="4C484544" w:rsidR="00C50756" w:rsidRDefault="001C2771" w:rsidP="007266D8">
+      <w:pPr>
+        <w:pStyle w:val="a9"/>
+        <w:ind w:left="360"/>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>Female与Male两个组分别通过Monte Carlo置换检验（p&lt;0.05）都识别出2个拐点。女性组的拐点分别为2005年与2018年；男性组的拐点分别为2006年与2018年。</w:t>
+      </w:r>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="63CB327B" w14:textId="4D90EB01" w:rsidR="00AD676D" w:rsidRDefault="005541C3" w:rsidP="00C91557">
+      <w:pPr>
+        <w:pStyle w:val="a9"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>APC：</w:t>
+      </w:r>
+      
+      
+    </w:p>
+    <w:p w14:paraId="1465A45A" w14:textId="769190C5" w:rsidR="00FC34DF" w:rsidRDefault="00FC34DF" w:rsidP="00FC34DF">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:noProof/>
+        </w:rPr>
+        <w:drawing>
+          <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="496BC6C8" wp14:editId="4ED01A77">
+            <wp:extent cx="5274310" cy="1342390"/>
+            <wp:effectExtent l="0" t="0" r="2540" b="0"/>
+            <wp:docPr id="1514742887" name="图片 1"/>
+            <wp:cNvGraphicFramePr>
+              <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noChangeAspect="1"/>
+            </wp:cNvGraphicFramePr>
+            <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+              <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                  <pic:nvPicPr>
+                    <pic:cNvPr id="1514742887" name=""/>
+                    <pic:cNvPicPr/>
+                  </pic:nvPicPr>
+                  <pic:blipFill>
+                    <a:blip r:embed="rId21"/>
+                    <a:stretch>
+                      <a:fillRect/>
+                    </a:stretch>
+                  </pic:blipFill>
+                  <pic:spPr>
+                    <a:xfrm>
+                      <a:off x="0" y="0"/>
+                      <a:ext cx="5274310" cy="1342390"/>
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                      <a:avLst/>
+                    </a:prstGeom>
+                  </pic:spPr>
+                </pic:pic>
+              </a:graphicData>
+            </a:graphic>
+          </wp:inline>
+        </w:drawing>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="340A8FF7" w14:textId="63598372" w:rsidR="008F0E7E" w:rsidRDefault="00B86B04" w:rsidP="00AD676D">
+      <w:pPr>
+        <w:pStyle w:val="a9"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="3"/>
+        </w:numPr>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t xml:space="preserve">  女性发病率在1999-2005年呈上升趋势（APC=1.02,95%CI：-0.04至2.10,p=0.059），由于p=0.059，</w:t>
+      <w:lastRenderedPageBreak/><w:t>故未到达统计学显著性水平，属于边缘显著。置信区间呈现出正向趋势，且其下限为-0.04十分接近0，提示上升速率相对缓慢。效应量为中等效应（ES=0.453,这里的ES属于标准化斜率法的效应量计算），这表明其上升趋势具备实际意义。</w:t></w:r>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="7D185B2A" w14:textId="48BDAB0A" w:rsidR="00AD676D" w:rsidRDefault="00883D83" w:rsidP="0023680E">
+      <w:pPr>
+        <w:pStyle w:val="a9"/>
+        <w:ind w:firstLineChars="200" w:firstLine="600"/>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>在2005-2018年与2018-2022年的发病率均下降，且后者发病率下降得更剧烈，但后者的数据置信区间更大，没有前者的数据可信度高（2005-2018年中，APC=-0.83,95%CI：-1.16至-0.51；2018-2022年中 APC=-2.88,95%CI：-4.45至-1.30）。</w:t>
+      </w:r>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="01E58792" w14:textId="1076A254" w:rsidR="00AD676D" w:rsidRDefault="00AD676D" w:rsidP="00AD676D">
+      <w:pPr>
+        <w:pStyle w:val="a9"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="3"/>
+        </w:numPr>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>男性发病率在1999-2022年持续下降，且1999-2006年（APC=-1.24,95%CI：-1.79至-0.67）、2006-2018年（APC=-2.43,95%CI：-2.72至-2.15）、2018-2022（APC=-4.49,95%CI：-5.81至-3.15）的下降趋势逐段加剧。（Q3）</w:t>
+      </w:r>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="15E441C4" w14:textId="61D0516B" w:rsidR="00B86B04" w:rsidRDefault="00B86B04" w:rsidP="00B86B04">
+      <w:pPr>
+        <w:pStyle w:val="a9"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>AAPC：</w:t>
+      </w:r>
+      
+    </w:p>
+    <w:p w14:paraId="7E03E971" w14:textId="73192456" w:rsidR="003B544E" w:rsidRDefault="007266D8" w:rsidP="000B1469">
+      <w:pPr>
+        <w:pStyle w:val="a9"/>
+        <w:ind w:left="360"/>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>女性的AAPC为-0.71，男性的AAPC为-2.43，P值均小于0.05。因此，从1999-2022年的男女的肺癌发病率整体均呈现下降趋势，且男性的下降趋势大于女性(Q2)。</w:t>
+      </w:r>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="4FFC2836" w14:textId="22E5DB3D" w:rsidR="00D77108" w:rsidRDefault="00D77108" w:rsidP="00D77108">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>宏观分析与微观分析的结论统一，因此具有可信度。</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="08806573" w14:textId="5819643A" w:rsidR="000B1469" w:rsidRDefault="00450830" w:rsidP="000B1469">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t># 4 发现问题</w:t>
+      </w:r>
+      
+    </w:p>
+    <w:p w14:paraId="2E0E7CC6" w14:textId="3BCD0775" w:rsidR="009A1CF6" w:rsidRPr="009A1CF6" w:rsidRDefault="00C52CC0" w:rsidP="009A1CF6">
+      <w:pPr>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+        <w:t>Q1：为什么在2020年的肺癌发病率呈现出凹陷？</w:t>
+      </w:r>
+      
+      
+      
+      
+      
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="2478352D" w14:textId="630EAEC9" w:rsidR="009A1CF6" w:rsidRDefault="009A1CF6" w:rsidP="009A1CF6">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>A1：2020年的COVID-19对肺癌发病率的诊断有很大的影响。</w:t>
+      </w:r>
+      
+      
+      
+      
+      
+      
+      <w:r>
+        <w:lastRenderedPageBreak/>
+        <w:t>美国</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>的</w:t>
+      </w:r>
+      <w:r>
+        <w:t>癌症登记处</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>的</w:t>
+      </w:r>
+      <w:r>
+        <w:t>数据</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>显示</w:t>
+      </w:r>
+      <w:r>
+        <w:t>，2020年年龄调整后肺癌发病率从47.9降至41.4/10万人，降幅13.6%</w:t>
+      </w:r>
+      
+      
+      
+      
+      
+      
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>，比2020年美国肺癌发病率的预期值低10%，而2020年</w:t>
+      </w:r>
+      
+      
+      
+      
+      
+      
+      <w:r>
+        <w:t>被诊断为远端转移期的患者占所有诊断的比例较2019年有所升高</w:t>
+      </w:r>
+      
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>。</w:t>
+      <w:fldChar w:fldCharType="begin"/><w:instrText xml:space="preserve"> ADDIN ZOTERO_ITEM CSL_CITATION {"citationID":"4bmBdqEj","properties":{"unsorted":false,"formattedCitation":"\\super [1\\uc0\\u8211{}3]\\nosupersub{}","plainCitation":"[1</w:instrText><w:instrText>–</w:instrText><w:instrText xml:space="preserve">3]","noteIndex":0},"citationItems":[{"id":19,"uris":["http://zotero.org/users/20531735/items/6PXK5LGM"],"itemData":{"id":19,"type":"webpage","citation-key":"COVID19YuMeiGuoAiZhengZhenDuanLuZhongLiuXue","title":"COVID-19 </w:instrText><w:instrText>与美国癌症诊断率</w:instrText><w:instrText xml:space="preserve"> |</w:instrText><w:instrText>肿瘤学</w:instrText><w:instrText xml:space="preserve"> |JAMA </w:instrText><w:instrText>网络开放</w:instrText><w:instrText xml:space="preserve"> |JAMA</w:instrText><w:instrText>网络</w:instrText><w:instrText>","URL":"https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2823296","accessed":{"date-parts":[["2026",5,14]]}}},{"id":11,"uris":["http://zotero.org/users/20531735/items/4YKN5GM9"],"itemData":{"id":11,"type":"article-journal","abstract":"The COVID-19 pandemic disrupted timely diagnosis of many cancers, including lung cancer, the leading cause of cancer-related death. In this study, we analyzed national data to understand how lung cancer detection was affected during the first two years of the pandemic, focusing on differences across demographic groups and communities. We found that lung cancer detection dropped significantly in 2020, particularly for rural residents, non-Hispanic Black and Asian individuals, and women. Although detection rates started to recover in 2021, disparities persisted, particularly in rural areas. Our findings highlight a hidden pool of undiagnosed cases and the need for targeted interventions to reach underserved populations. These insights could help guide future public health strategies to reduce disparities and improve early lung cancer detection for all groups., Objective: To quantify the extent of the disruption and recovery of lung cancer detection during the first two years of the pandemic, focusing on disparities across demographic and community factors. Methods: This retrospective cohort study used the SEER database to identify lung cancer cases from 2001 to 2021. Expected incidence rates for 2020 and 2021 were projected based on pre-pandemic trends (2000</w:instrText><w:instrText>–</w:instrText><w:instrText>2019) using the NCI</w:instrText><w:instrText>&#x2019;</w:instrText><w:instrText>s Joinpoint Regression program. Percent differences between expected and observed incidence rates were calculated. Multivariate and propensity score analyses were conducted to quantify changes in the odds of being diagnosed with metastatic disease during the pandemic. Results: Lung cancer incidence fell by 10% in 2020 compared to pre-pandemic projections, with rural populations, non-Hispanic Black and Asian patients, and females disproportionately affected. By 2021, detection rates partially recovered but remained 5% below expected levels. Localized disease detection improved significantly, while rural communities not adjacent to metropolitan areas faced further declines. Adjusted analyses showed that patients with small-cell lung cancer (SCLC) and those of Hispanic, non-Hispanic Black, or Asian/Pacific Islander ethnicity had persistently higher rates of distant disease presentation through 2021. Conclusions: The pandemic significantly reduced lung cancer detection, with only partial recovery by 2021. Persistent gaps, particularly in rural and minoritized populations, highlight the need for targeted interventions to reengage these communities.","citation-key":"lalDisruptionsLungCancer2024a","container-title":"Cancers","DOI":"10.3390/cancers16234001","ISSN":"2072-6694","issue":"23","journalAbbreviation":"Cancers (Basel)","page":"4001","PMID":"39682187","PMCID":"PMC11640142","source":"PubMed Central","title":"Disruptions in Lung Cancer Detection During COVID-19","volume":"16","author":[{"family":"Lal","given":"Trisha"},{"family":"Kim","given":"Uriel"},{"family":"Boutros","given":"Christina S."},{"family":"Chakraborty","given":"Natalie N."},{"family":"Doh","given":"Susan J."},{"family":"Towe","given":"Christopher W."},{"family":"Hoehn","given":"Richard S."}],"issued":{"date-parts":[["2024",11,29]]}}},{"id":16,"uris":["http://zotero.org/users/20531735/items/NIM2N2ED"],"itemData":{"id":16,"type":"webpage","abstract":"Purpose: Cancer incidence declined during the COVID-19 pandemic in part due to health care delivery challenges. We examined the impact of the COVID-19 pandemic on changes in lung cancer incidence. Methods: We used 2019</w:instrText><w:instrText>–</w:instrText><w:instrText>2020 US Cancer Statistics data from 49 cancer registries covering 97% of the US population. We calculated the number of new lung cancer diagnoses in 2019 and 2020, age-adjusted lung cancer incidence rates per 100,000 persons, and 2019-to-2020 percentage changes in incidence rates. We also calculated number and percentage of new lung cancer diagnoses by month and stage at diagnosis. Results: The age-adjusted lung cancer incidence rate per 100,000 persons was 47.9 in 2019 vs. 41.4 in 2020</w:instrText><w:instrText>—</w:instrText><w:instrText>a 13.6% decrease. Differences in the percentage change in incidence rates were observed by age, race and ethnicity, US census region, histology, and stage at diagnosis. A higher percentage of people were diagnosed at distant stage in 2020 than 2019. Conclusions: This report provides new insight into subgroups that experienced the greatest decline in observed lung cancer incidence during the first year of the COVID-19 pandemic. The findings can be used to inform intervention efforts to improve lung cancer screening, diagnosis, and treatment.","citation-key":"kavaLungCancerIncidence10202410-2024","DOI":"10.1016/j.annepidem.2024.08.005","language":"English","note":"volume: 98\nPMID: 39197807\nDOI: 10.1016/j.annepidem.2024.08.005","title":"Lung Cancer Incidence, 2019</w:instrText><w:instrText>–</w:instrText><w:instrText>2020, United States: The Potential Impact of the COVID-19 Pandemic","title-short":"Lung Cancer Incidence, 2019</w:instrText><w:instrText>–</w:instrText><w:instrText xml:space="preserve">2020, United States","URL":"https://stacks.cdc.gov","author":[{"family":"Kava","given":"Christine M."},{"family":"Siegel","given":"David A."},{"family":"Sabatino","given":"Susan A."},{"family":"Qin","given":"Jin"},{"family":"Richards","given":"Thomas B."},{"family":"Jane Henley","given":"S."}],"accessed":{"date-parts":[["2026",5,14]]},"issued":{"date-parts":[["2024"]],"season":"10-2024"}}}],"schema":"https://github.com/citation-style-language/schema/raw/master/csl-citation.json"} </w:instrText><w:fldChar w:fldCharType="separate"/></w:r>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="等线" w:eastAsia="等线" w:hAnsi="等线" w:cs="Times New Roman"/>
+          <w:kern w:val="0"/>
+          <w:vertAlign w:val="superscript"/>
+        </w:rPr>
+        <w:t>[1–3]</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:fldChar w:fldCharType="end"/>
+      <w:t>同时，SEER数据库官方说明中也明确指出，COVID导致2020年发病率数据不可比。</w:t><w:fldChar w:fldCharType="begin"/><w:instrText xml:space="preserve"> ADDIN ZOTERO_ITEM CSL_CITATION {"citationID":"a2kK8KlZ","properties":{"unsorted":false,"formattedCitation":"\\super [4]\\nosupersub{}","plainCitation":"[4]","noteIndex":0},"citationItems":[{"id":22,"uris":["http://zotero.org/users/20531735/items/BPF4YKH8"],"itemData":{"id":22,"type":"webpage","citation-key":"ImpactCOVID19SEER","title":"Impact of COVID-19 on SEER Data Releases","URL":"https://seer.cancer.gov/data/covid-impact.html","accessed":{"date-parts":[["2026",5,14]]}}}],"schema":"https://github.com/citation-style-language/schema/raw/master/csl-citation.json"} </w:instrText><w:fldChar w:fldCharType="separate"/></w:r>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="等线" w:eastAsia="等线" w:hAnsi="等线" w:cs="Times New Roman"/>
+          <w:kern w:val="0"/>
+          <w:vertAlign w:val="superscript"/>
+        </w:rPr>
+        <w:t>[4]</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:fldChar w:fldCharType="end"/>
+      <w:t>因此，可以看出的确是COVID-19导致了肺癌诊断延误。</w:t></w:r>
+      
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="3D01E847" w14:textId="3129E8C3" w:rsidR="00C52CC0" w:rsidRDefault="00C52CC0" w:rsidP="009A1CF6">
+      <w:pPr>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+        <w:t>Q2：为什么男性发病率与女性发病率的差距持续缩小（为什么男性的发病率下降趋势大于女性）？</w:t>
+      </w:r>
+      
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="3C415FCC" w14:textId="49697DC5" w:rsidR="00E07FD3" w:rsidRPr="00E07FD3" w:rsidRDefault="00E07FD3" w:rsidP="009A1CF6">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>A2：由于男性的吸烟率高于女性，因此男性的肺癌发病率始终高于女性。从1965-2015年女性吸烟率从34%降至14%，没有男性的下降幅度大，而且下降滞后于男性，故发病率下降速度整体低于男性。</w:t>
+      <w:fldChar w:fldCharType="begin"/><w:instrText xml:space="preserve"> ADDIN ZOTERO_ITEM CSL_CITATION {"citationID":"mFsFilt8","properties":{"unsorted":false,"formattedCitation":"\\super [5]\\nosupersub{}","plainCitation":"[5]","noteIndex":0},"citationItems":[{"id":26,"uris":["http://zotero.org/users/20531735/items/PH4M8VIR"],"itemData":{"id":26,"type":"article-journal","abstract":"November marks Lung Cancer Awareness Month and reminds us that lung cancer is the leading cause of cancer death among women, in the United States. In this brief report we highlight CDC resources that can be used to examine the most recent data about lung cancer incidence, survival, prevalence, and mortality among women. Using the U.S. Cancer Statistics Data Visualizations tool, we report that in 2015, 104,992 new cases of lung cancer and 70,073 lung cancer deaths were reported among women in the United States. The 5-year relative survival among females diagnosed with lung cancer was 22%, and as of 2015, about 185,759 women were living with a lung cancer diagnosis. We also describe ways CDC works to collect and disseminate quality cancer surveillance data, prevent initiation of tobacco use, promote cessation, eliminate exposure to secondhand smoke, identify and eliminate disparities, promote lung cancer screening, and help cancer survivors live longer by improving health outcomes.","citation-key":"henleyReportCDCLung2018","container-title":"Journal of women's health (2002)","DOI":"10.1089/jwh.2018.7397","ISSN":"1540-9996","issue":"11","journalAbbreviation":"J Womens Health (Larchmt)","page":"1307-1316","PMID":"30312110","PMCID":"PMC6546283","source":"PubMed Central","title":"A Report from CDC: Lung Cancer among Women in the United States","title-short":"A Report from CDC","volume":"27","author":[{"family":"Henley","given":"S. Jane"},{"family":"Gallaway","given":"M. Shayne"},{"family":"Singh","given":"Simple D."},{"family":"O</w:instrText><w:instrText>&#x2019;</w:instrText><w:instrText xml:space="preserve">Neil","given":"Mary Elizabeth"},{"family":"Lunsford","given":"Natasha Buchanan"},{"family":"Momin","given":"Behnoosh"},{"family":"Richards","given":"Thomas B."}],"issued":{"date-parts":[["2018",11]]}}}],"schema":"https://github.com/citation-style-language/schema/raw/master/csl-citation.json"} </w:instrText><w:fldChar w:fldCharType="separate"/></w:r>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="等线" w:eastAsia="等线" w:hAnsi="等线" w:cs="Times New Roman"/>
+          <w:kern w:val="0"/>
+          <w:vertAlign w:val="superscript"/>
+        </w:rPr>
+        <w:t>[5]</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:fldChar w:fldCharType="end"/>
+      <w:t>同时，女性中非吸烟因素引起的肺癌占比更高，故</w:t></w:r>
+      
+      
+      
+      <w:r>
+        <w:t>这部分病例不受控烟政策影响，从而拉低了整体下降速度</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>。</w:t>
+      <w:fldChar w:fldCharType="begin"/><w:instrText xml:space="preserve"> ADDIN ZOTERO_ITEM CSL_CITATION {"citationID":"ULf6prkK","properties":{"unsorted":false,"formattedCitation":"\\super [6]\\nosupersub{}","plainCitation":"[6]","noteIndex":0},"citationItems":[{"id":23,"uris":["http://zotero.org/users/20531735/items/A3FSEZ4C"],"itemData":{"id":23,"type":"article-journal","abstract":"Lung cancer ranks as one of the top malignancies and the leading cause of cancer death in both males and females in the US. Using a cancer database covering the entire population, this study was to determine the gender disparities in lung cancer incidence during 2001</w:instrText><w:instrText>–</w:instrText><w:instrText>2019. Cancer patients were obtained from the National Program of Cancer Registries (NPCR) and Surveillance, Epidemiology and End Results (SEER) database. The SEER*Stat software was applied to calculate the age-adjusted incidence rates (AAIR). Temporal changes in lung cancer incidence were analyzed by the Joinpoint software. A total of 4,086,432 patients (53.3% of males) were diagnosed with lung cancer. Among them, 52.1% were 70 years or older, 82.7% non-Hispanic white, 39.7% from the South, and 72.6% non-small cell lung cancer (NSCLC). The AAIR of lung cancer continuously reduced from 91.0 per 100000 to 59.2 in males during the study period, while it increased from 55.0 in 2001 to 56.8 in 2006 in females, then decreased to 48.1 in 2019. The female to male incidence rate ratio of lung cancer continuously increased from 2001 to 2019. Gender disparities were observed among age groups, races, and histological types. In those aged 0</w:instrText><w:instrText>–</w:instrText><w:instrText>54 years, females had higher overall incidence rates of lung cancer than males in recent years, which was observed in all races (except non-Hispanic black), all regions, and adenocarcinoma and small cell (but not squamous cell). Non-Hispanic black females aged 0</w:instrText><w:instrText>–</w:instrText><w:instrText>54 years had a faster decline rate than males since 2013. API females demonstrated an increased trend during the study period. Lung cancer incidence continues to decrease with gender disparities among age groups, races, regions, and histological types. Continuous anti-smoking programs plus reduction of related risk factors are necessary to lower lung cancer incidence further.","citation-key":"fuGenderDisparitiesLung2023","container-title":"Scientific Reports","DOI":"10.1038/s41598-023-39440-8","ISSN":"2045-2322","journalAbbreviation":"Sci Rep","page":"12581","PMID":"37537259","PMCID":"PMC10400573","source":"PubMed Central","title":"Gender disparities in lung cancer incidence in the United States during 2001</w:instrText><w:instrText>–</w:instrText><w:instrText xml:space="preserve">2019","volume":"13","author":[{"family":"Fu","given":"Yu"},{"family":"Liu","given":"Jun"},{"family":"Chen","given":"Yan"},{"family":"Liu","given":"Zhuo"},{"family":"Xia","given":"Hongbo"},{"family":"Xu","given":"Haixia"}],"issued":{"date-parts":[["2023",8,3]]}}}],"schema":"https://github.com/citation-style-language/schema/raw/master/csl-citation.json"} </w:instrText><w:fldChar w:fldCharType="separate"/></w:r>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="等线" w:eastAsia="等线" w:hAnsi="等线" w:cs="Times New Roman"/>
+          <w:kern w:val="0"/>
+          <w:vertAlign w:val="superscript"/>
+        </w:rPr>
+        <w:t>[6]</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:fldChar w:fldCharType="end"/>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="7D50FB19" w14:textId="7233FE8B" w:rsidR="006A7CF9" w:rsidRDefault="009146E9" w:rsidP="009A1CF6">
+      <w:pPr>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+        <w:t>Q3：2005与2018年左右是否发生过一些事情，导致这两个组的拐点离得非常近且均在此之后发病率下降？（医疗进步上、政策上、经济上、社会情景上……？）</w:t>
+      </w:r>
+      
+      
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="619D8358" w14:textId="482682C0" w:rsidR="00E07FD3" w:rsidRPr="00E07FD3" w:rsidRDefault="00E07FD3" w:rsidP="009A1CF6">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>A3：20世纪中后期起，美国推行了多项控烟措施，从而降低了吸烟人群比例，由于吸烟率的延迟效应导致2005-2006年的肺癌发病率的下降，这是多年控烟的结果。</w:t>
+      <w:fldChar w:fldCharType="begin"/><w:instrText xml:space="preserve"> ADDIN ZOTERO_ITEM CSL_CITATION {"citationID":"4R3cno3p","properties":{"unsorted":false,"formattedCitation":"\\super [7]\\nosupersub{}","plainCitation":"[7]","noteIndex":0},"citationItems":[{"id":40,"uris":["http://zotero.org/users/20531735/items/GU4IM38Z"],"itemData":{"id":40,"type":"article-journal","citation-key":"henleyLungCancerIncidence","language":"en","source":"Zotero","title":"Lung Cancer Incidence Trends Among Men and Women </w:instrText><w:instrText>—</w:instrText><w:instrText xml:space="preserve"> United States, 2005</w:instrText><w:instrText>–</w:instrText><w:instrText xml:space="preserve">2009","author":[{"family":"Henley","given":"S Jane"},{"family":"Richards","given":"Thomas B"},{"family":"Underwood","given":"J Michael"},{"family":"Eheman","given":"Christie R"},{"family":"Plescia","given":"Marcus"},{"family":"McAfee","given":"Timothy A"}]}}],"schema":"https://github.com/citation-style-language/schema/raw/master/csl-citation.json"} </w:instrText><w:fldChar w:fldCharType="separate"/></w:r>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="等线" w:eastAsia="等线" w:hAnsi="等线" w:cs="Times New Roman"/>
+          <w:kern w:val="0"/>
+          <w:vertAlign w:val="superscript"/>
+        </w:rPr>
+        <w:t>[7]</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:fldChar w:fldCharType="end"/>
+      <w:t>2013年USPSTF推广LDCT，2015年私保强制覆盖扩大推广范围，LDCT的筛查与控烟政策等多方面作用，推动了肺癌的早期发现，但并未发现发病率下降的原因。</w:t><w:fldChar w:fldCharType="begin"/><w:instrText xml:space="preserve"> ADDIN ZOTERO_ITEM CSL_CITATION {"citationID":"fvbNnuym","properties":{"unsorted":false,"formattedCitation":"\\super [8]\\nosupersub{}","plainCitation":"[8]","noteIndex":0},"citationItems":[{"id":36,"uris":["http://zotero.org/users/20531735/items/E4B3KMLY"],"itemData":{"id":36,"type":"article-journal","abstract":"Purpose of review:\nTo review findings from clinical trials of lung cancer screening (LCS), assess contemporary issues with implementation in clinical practice, and review emerging strategies to increase the uptake and efficiency of LCS.\n\nRecent findings:\nIn 2013, the USPSTF recommended annual screening for individuals aged 55</w:instrText><w:instrText>–</w:instrText><w:instrText xml:space="preserve">80 years and currently smoke or quit within the past 15 years based on reduced mortality from lung cancer with annual low-dose computed tomography (LDCT) screening in the National Lung Screening Trial. Subsequent trials have demonstrated similar mortality outcomes in individuals with lower pack-year smoking histories. These findings, coupled with evidence for disparities in screening eligibility by race, resulted in updated guidelines by USPSTF to broaden eligibility criteria for screening. Despite this body of evidence, implementation in the US has been suboptimal with fewer than 20% of eligible individuals receiving a screen. Barriers to efficient implementation are multifactorial and include patient, clinician, and system level factors.\n\nSummary:\nMultiple randomized trials have established that annual LCS reduces mortality from lung cancer, however several areas of uncertainty exist on the effectiveness of annual LDCT. Ongoing research is examining approaches to improve the uptake and efficiency of LCS such as the use of risk-prediction models and biomarkers for identification of high-risk individuals.","citation-key":"vachaniImpactLowDoseCT2023","container-title":"Current opinion in pulmonary medicine","DOI":"10.1097/MCP.0000000000000974","ISSN":"1070-5287","issue":"4","journalAbbreviation":"Curr Opin Pulm Med","page":"232-238","PMID":"37191171","PMCID":"PMC10247528","source":"PubMed Central","title":"Impact of Low-Dose CT Screening on Lung Cancer Incidence and Outcomes","volume":"29","author":[{"family":"Vachani","given":"Anil"},{"family":"Caruso","given":"Christopher"}],"issued":{"date-parts":[["2023",7,1]]}}}],"schema":"https://github.com/citation-style-language/schema/raw/master/csl-citation.json"} </w:instrText><w:fldChar w:fldCharType="separate"/></w:r>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="等线" w:eastAsia="等线" w:hAnsi="等线" w:cs="Times New Roman"/>
+          <w:kern w:val="0"/>
+          <w:vertAlign w:val="superscript"/>
+        </w:rPr>
+        <w:t>[8]</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:fldChar w:fldCharType="end"/>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="5D3211DF" w14:textId="40BD8F93" w:rsidR="006A7CF9" w:rsidRDefault="00D56C0C">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:lastRenderedPageBreak/>
+        <w:t># 5 结语</w:t>
+      </w:r>
+      
+    </w:p>
+    <w:p w14:paraId="1E422CAB" w14:textId="4F553ADF" w:rsidR="00D56C0C" w:rsidRDefault="005E2016">
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>因为这篇文章是由我个人从零开始搭建出来的，所以一定有许多不完善或者是错误的地方，因此如果你有任何看法或建议，欢迎批评指正，我非常期待学习。</w:t>
+      </w:r>
+      
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="3863457C" w14:textId="538F8D9B" w:rsidR="007466B5" w:rsidRDefault="007466B5">
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>可以在我的公众号里私信我或是邮箱联系我。</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="1F8F32F7" w14:textId="20CC04EC" w:rsidR="007466B5" w:rsidRDefault="007466B5">
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>我的邮箱：</w:t>
+      <w:fldChar w:fldCharType="begin"/><w:instrText>HYPERLINK "mailto:bu123096@163.com"</w:instrText><w:fldChar w:fldCharType="separate"/></w:r>
+      
+      
+      
+      <w:r>
+        <w:rPr>
+          <w:rStyle w:val="af"/>
+        </w:rPr>
+        <w:t>bu123096@163.com</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:fldChar w:fldCharType="end"/>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="382FC763" w14:textId="60F86AC0" w:rsidR="007466B5" w:rsidRPr="007466B5" w:rsidRDefault="007466B5">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>我的github：</w:t>
+      </w:r>
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="2D774CC5" w14:textId="77777777" w:rsidR="006A7CF9" w:rsidRDefault="006A7CF9">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="132BBCE1" w14:textId="77777777" w:rsidR="0052104E" w:rsidRPr="0052104E" w:rsidRDefault="0052104E" w:rsidP="0052104E">
+      <w:pPr>
+        <w:pStyle w:val="af5"/>
+      </w:pPr>
+      <w:r>
+        <w:fldChar w:fldCharType="begin"/>
+      <w:instrText xml:space="preserve"> ADDIN ZOTERO_BIBL {"uncited":[],"omitted":[],"custom":[]} CSL_BIBLIOGRAPHY </w:instrText><w:fldChar w:fldCharType="separate"/><w:t>[1]</w:t><w:tab/><w:t>COVID-19 与美国癌症诊断率 |肿瘤学 |JAMA 网络开放 |JAMA网络[EB/OL]. [2026-05-14]. https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2823296.</w:t></w:r>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="0FF9CF0B" w14:textId="77777777" w:rsidR="0052104E" w:rsidRPr="0052104E" w:rsidRDefault="0052104E" w:rsidP="0052104E">
+      <w:pPr>
+        <w:pStyle w:val="af5"/>
+      </w:pPr>
+      <w:r>
+        <w:t>[2]</w:t>
+      <w:tab/><w:t>LAL T, KIM U, BOUTROS C S, 等. Disruptions in Lung Cancer Detection During COVID-19[J/OL]. Cancers, 2024, 16(23): 4001. DOI:10.3390/cancers16234001.</w:t></w:r>
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="7D88A186" w14:textId="77777777" w:rsidR="0052104E" w:rsidRPr="0052104E" w:rsidRDefault="0052104E" w:rsidP="0052104E">
+      <w:pPr>
+        <w:pStyle w:val="af5"/>
+      </w:pPr>
+      <w:r>
+        <w:t>[3]</w:t>
+      <w:tab/><w:t>KAVA C M, SIEGEL D A, SABATINO S A, 等. Lung Cancer Incidence, 2019–2020, United States: The Potential Impact of the COVID-19 Pandemic: 卷 98[EB/OL]. (2024-10-2024)[2026-05-14]. https://stacks.cdc.gov. DOI:10.1016/j.annepidem.2024.08.005.</w:t></w:r>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="7DA98B49" w14:textId="77777777" w:rsidR="0052104E" w:rsidRPr="0052104E" w:rsidRDefault="0052104E" w:rsidP="0052104E">
+      <w:pPr>
+        <w:pStyle w:val="af5"/>
+      </w:pPr>
+      <w:r>
+        <w:t>[4]</w:t>
+      <w:tab/><w:t>Impact of COVID-19 on SEER Data Releases[EB/OL]. [2026-05-14]. https://seer.cancer.gov/data/covid-impact.html.</w:t></w:r>
+      
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="6C51683A" w14:textId="77777777" w:rsidR="0052104E" w:rsidRPr="0052104E" w:rsidRDefault="0052104E" w:rsidP="0052104E">
+      <w:pPr>
+        <w:pStyle w:val="af5"/>
+      </w:pPr>
+      <w:r>
+        <w:lastRenderedPageBreak/>
+        <w:t>[5]</w:t>
+      <w:tab/><w:t>HENLEY S J, GALLAWAY M S, SINGH S D, 等. A Report from CDC: Lung Cancer among Women in the United States[J/OL]. Journal of women&#x2019;s health (2002), 2018, 27(11): 1307-1316. DOI:10.1089/jwh.2018.7397.</w:t></w:r>
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="0A186AE4" w14:textId="77777777" w:rsidR="0052104E" w:rsidRPr="0052104E" w:rsidRDefault="0052104E" w:rsidP="0052104E">
+      <w:pPr>
+        <w:pStyle w:val="af5"/>
+      </w:pPr>
+      <w:r>
+        <w:t>[6]</w:t>
+      <w:tab/><w:t>FU Y, LIU J, CHEN Y, 等. Gender disparities in lung cancer incidence in the United States during 2001–2019[J/OL]. Scientific Reports, 2023, 13: 12581. DOI:10.1038/s41598-023-39440-8.</w:t></w:r>
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="65C95D01" w14:textId="77777777" w:rsidR="0052104E" w:rsidRPr="0052104E" w:rsidRDefault="0052104E" w:rsidP="0052104E">
+      <w:pPr>
+        <w:pStyle w:val="af5"/>
+      </w:pPr>
+      <w:r>
+        <w:t>[7]</w:t>
+      <w:tab/><w:t>HENLEY S J, RICHARDS T B, UNDERWOOD J M, 等. Lung Cancer Incidence Trends Among Men and Women — United States, 2005–2009[J].</w:t></w:r>
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="7901E7B2" w14:textId="77777777" w:rsidR="0052104E" w:rsidRPr="0052104E" w:rsidRDefault="0052104E" w:rsidP="0052104E">
+      <w:pPr>
+        <w:pStyle w:val="af5"/>
+      </w:pPr>
+      <w:r>
+        <w:t>[8]</w:t>
+      <w:tab/><w:t>VACHANI A, CARUSO C. Impact of Low-Dose CT Screening on Lung Cancer Incidence and Outcomes[J/OL]. Current opinion in pulmonary medicine, 2023, 29(4): 232-238. DOI:10.1097/MCP.0000000000000974.</w:t></w:r>
+      
+    </w:p>
+    <w:p w14:paraId="3C56427B" w14:textId="1C992C04" w:rsidR="006A7CF9" w:rsidRDefault="0052104E" w:rsidP="0052104E">
+      <w:pPr>
+        <w:pStyle w:val="af5"/>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:fldChar w:fldCharType="end"/>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="668241C6" w14:textId="77777777" w:rsidR="006A7CF9" w:rsidRDefault="006A7CF9">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="6F96C5FC" w14:textId="77777777" w:rsidR="006A7CF9" w:rsidRDefault="006A7CF9">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="6B501316" w14:textId="77777777" w:rsidR="006A7CF9" w:rsidRDefault="006A7CF9">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="66258E64" w14:textId="77777777" w:rsidR="006A7CF9" w:rsidRDefault="006A7CF9">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="79DB4A86" w14:textId="77777777" w:rsidR="006A7CF9" w:rsidRDefault="006A7CF9">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="28E5C33F" w14:textId="77777777" w:rsidR="006A7CF9" w:rsidRDefault="006A7CF9">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="77F19866" w14:textId="77777777" w:rsidR="006A7CF9" w:rsidRDefault="006A7CF9">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:sectPr w:rsidR="006A7CF9">
+      <w:pgSz w:w="11906" w:h="16838"/>
+      <w:pgMar w:top="1440" w:right="1800" w:bottom="1440" w:left="1800" w:header="851" w:footer="992" w:gutter="0"/>
+      <w:cols w:space="425"/>
+      <w:docGrid w:type="lines" w:linePitch="312"/>
+    </w:sectPr>
+  </w:body>
+</w:document>
